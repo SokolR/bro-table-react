@@ -1,1 +1,1 @@
-# bro-table-react
+# https://sokolr.github.io/bro-table-react/
